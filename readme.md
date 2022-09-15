@@ -10,3 +10,6 @@ The programs used for my Msc project in this repository comprise of <br/>
   c. Analysing Acoustic data:  
     i. Fitting echo data on cantilever body with RBF   
     ii. Estimating Echo amplitudes on the cantilever body
+    
+      
+  d. Other codes to be updated
